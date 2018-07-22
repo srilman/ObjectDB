@@ -1,0 +1,10 @@
+# IDE and Tool Folders
+.idea
+.vscode/
+.python-version
+
+# PYC Files
+*.pyc
+*/*.pyc
+
+
